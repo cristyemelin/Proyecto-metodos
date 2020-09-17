@@ -11,8 +11,8 @@ Para compilar e iniciar el proyecto, tener como requisitos instalar MinGW en win
 <h1>Tareas pendientes del proyecto</h1>
 <li>
   <ul>Re-crear documentación del proyecto</ul>
-   <ul>a</ul>
-   <ul>a</ul>
+   <ul>Re-creación de interfaz gráfica</ul>
+   <ul>Mejora de algoritmo</ul>
    <ul>a</ul>
    <ul>a</ul>
 </li>
