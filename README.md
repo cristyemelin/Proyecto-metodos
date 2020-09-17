@@ -1,7 +1,7 @@
 # Proyecto-metodos
 
 Proyecto para la asignación de "Métodos numéricos" que se tratará de la integración de diferentes sistemas numéricos(aún en decisión)<br><br>
-<strong>******INSTRUCCIONES(consola)**********</strong><br>
+<strong>*******INSTRUCCIONES(Consola)***********</strong><br>
 Para compilar e iniciar el proyecto, tener como requisitos instalar MinGW en windows o su equivalente en linux/Mac<br>
   <strong>g++ nombredeproyectocompilado nombredeproyecto.cpp</strong>. Para Ejecutar el proyecto compilado utilizar <strong>start nombredeproyectocompilado</strong><br><br>
   <strong>*******INSTRUCCIONES(IDE)***********</strong><br><br>
@@ -10,7 +10,7 @@ Para compilar e iniciar el proyecto, tener como requisitos instalar MinGW en win
   <br><br><br>
 <h1>Tareas pendientes del proyecto</h1>
 <li>
-  <ul>a</ul>
+  <ul>Re-crear documentación del proyecto</ul>
    <ul>a</ul>
    <ul>a</ul>
    <ul>a</ul>
